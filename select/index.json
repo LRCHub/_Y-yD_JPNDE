@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "バグり（feat. kZm、Awich、PETZ、MonyHorse）",
+  "base_artist": "YENTOWN",
+  "createdAt": "2026-02-07T08:15:26.264850Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バグり (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",
+      "artist": "YENTOWN",
+      "has_synced": false,
+      "path": "select/01_バグり_(feat._kZm,_Awich,_PETZ,_MonyHorse_&_JNKMN)_YENTOWN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バグり (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",
+      "artist": "YENTOWN",
+      "has_synced": false,
+      "path": "select/pl_01_バグり_(feat._kZm,_Awich,_PETZ,_MonyHorse_&_JNKMN)_YENTOWN.txt"
+    }
+  ]
+}
